@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: aquamarine;
+  background-color: #55E6C1;
   font-family: "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
@@ -14,6 +14,7 @@ body {
   height: 100vh;
   overflow: hidden;
   margin: 0;
+  padding: 20px;
 }
 
 .container{
